@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Vikas**
-- GitHub: [@Vikas8346](https://github.com/Vikas8346)
+- GitHub: [@Soni09-tech](https://github.com/Soni09-tech)
 
 ---
 
